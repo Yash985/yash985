@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Yash Chandra Srivastava</h1>
 <h3 align="center">Galgotias College of engineering and technology</h3>
 
